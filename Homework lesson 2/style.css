@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 700px;
+    height: 100vh;
+    background: aliceblue;
+
+}
+.widgets {
+    width: 100%;
+    height: 30%;
+    background: aqua;
+
+}
+.combo {
+    width: 100%;
+    height: 20%;
+    background: aquamarine;
+
+}
+.contact {
+    width: 100%;
+    height: 45%;
+    background: cornflowerblue;
+}
